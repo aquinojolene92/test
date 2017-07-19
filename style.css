@@ -1,0 +1,40 @@
+h1 {
+	color:purple;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+img {
+		margin: 0; 
+		border-radius: 90%;
+}
+body {
+	background-image: url("backgroundwebsitephoto.jpg");
+	height:100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+P{
+	color:purple;
+	text-align: center;
+}
+nav a{
+	margin-left: 20px;
+}
+
+#navbar {
+	margin:0;
+	padding:0;
+	font-family:'Arial', serif;
+
+}
+.navbarr {
+	background-color:#ffd1d1;
+	color:#ffb6c1;
+	list-style:none;
+	text-align:center;
+	padding:0 20px 0 20px;
+}
